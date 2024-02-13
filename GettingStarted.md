@@ -1,4 +1,4 @@
-## ![Overview of JavaScript](images/JS-icon.png)
+## ![Overview of JavaScript](images/JS-icon.png) Overview of JavaScript
 
 Explore the JavaScript language and its versatile capabilities, including:
 
