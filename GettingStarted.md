@@ -30,3 +30,12 @@ Learn how JavaScript collaborates with HTML and CSS to deliver complete web page
 
 Explore libraries like React and frameworks like Angular, Vue.js, and Ember.js that simplify common tasks and provide robust tools for building complex applications.
 
+## Requirement For JavaScript
+- Download LTS version of Node js from [Here](https://nodejs.org/en), LTS means Long Term Service Means You Don't need to Install New Version of Node js for short updates. You can also use Deno.js It works as same as Node js
+
+- Now We have a Runtime Engine we can Install a Code Editor for it. I would Recommend using Vs code which you can download from [here](https://code.visualstudio.com/download)
+
+
+After setting all of these you may now proceed to Learn JavaScript Head to first Folder named 01_Basic
+
+Have Fun Good Luck!!😊😊😁😁👍

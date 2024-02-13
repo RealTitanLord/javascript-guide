@@ -8,7 +8,7 @@
   <img src="images/JS-cover-photo.png" alt="JavaScript Quick Reference Guide Cover Image">
 </p>
 
-A comprehensive yet concise overview and quick-reference to JavaScript fundamentals. Designed as both an efficient learning tool and a rapid reference. This guide bridges the gap between learning and practical application, making JavaScript more accessible.
+A comprehensive yet concise overview and quick reference to JavaScript fundamentals. Designed as both an efficient learning tool and a rapid reference. This guide bridges the gap between learning and practical application, making JavaScript more accessible.
 
 ## Key Benefits of the Guide
 
