@@ -33,7 +33,7 @@ This is Made in 2024 with corresponds to Nodejs v18
 
 No need to Panic Only a Few Things will change in the future 😊
 
-Go to [GettingStarted]()
+Go to [GettingStarted](GettingStarted.md)
 
 ## Additional Resources
 Valuable resources to further enhance your JavaScript knowledge:
