@@ -38,4 +38,9 @@ Explore libraries like React and frameworks like Angular, Vue.js, and Ember.js t
 
 After setting all of these you may now proceed to Learn JavaScript Head to first Folder named 01_Basic
 
+Use these 3 Plugins if your using VScode 
+- ESlint
+- Prettier
+- Vscode-Icons
+
 Have Fun Good Luck!!😊😊😁😁👍

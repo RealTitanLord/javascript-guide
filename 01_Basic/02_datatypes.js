@@ -27,3 +27,5 @@ console.log(typeof string)
 console.log(typeof Boolean)
 console.log(typeof notdefined)
 console.log(typeof nothing)
+
+// typeof is used to get the datatype of the entered value
